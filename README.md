@@ -48,7 +48,6 @@ Make sure you have **Python 3.8+** installed.
 
 ```bash
 git clone https://github.com/usama7871/Assignment-05.git
-cd secure-encryption-app
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
