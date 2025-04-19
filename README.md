@@ -1,6 +1,4 @@
-Here’s a well-structured `README.md` file tailored for your `app.py` — a secure data vault built with Streamlit and Python:
 
----
 
 ```markdown
 # 🔐 Secure Vault Web App
